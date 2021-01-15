@@ -1,0 +1,23 @@
+{
+  "name": "indecision",
+  "version": "1.0.0",
+  "description": "This app will decide your fate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akasharora506/Indecision.git"
+  },
+  "author": "Akash Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akasharora506/Indecision/issues"
+  },
+  "homepage": "https://github.com/akasharora506/Indecision#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-react": "^6.24.1"
+  }
+}
